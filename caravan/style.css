@@ -40,7 +40,7 @@ header .heading{
 }
 
 .main{
-  width: 840%;
+  width: 840px;
   /*height: 1400px;*/
   /*background-color: green;*/
   display: flex;

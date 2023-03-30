@@ -10,11 +10,21 @@ a{
   text-decoration: none;
 }
 
+header, nav, .main-visual, footer{
+  font-family: Chalkduster, "Bradley Hand", "Segoe Print", sans-serif;
+}
+
 header{
   width: 90%;
   padding: 15px 0;
   margin: 0 auto;
   text-align: center;
+}
+
+.social{
+  position: absolute;
+  top: 22px;
+  right: 22px;
 }
 
 header .heading{
